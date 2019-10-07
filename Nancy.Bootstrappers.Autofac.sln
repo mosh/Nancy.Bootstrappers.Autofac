@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# RemObjects Fire
+Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "Nancy.Bootstrappers.Autofac", "Nancy.Bootstrappers.Autofac.elements", "{D02B1CA8-248A-4FEE-B78F-EFCCD3BBAC98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D02B1CA8-248A-4FEE-B78F-EFCCD3BBAC98}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{D02B1CA8-248A-4FEE-B78F-EFCCD3BBAC98}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{D02B1CA8-248A-4FEE-B78F-EFCCD3BBAC98}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{D02B1CA8-248A-4FEE-B78F-EFCCD3BBAC98}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

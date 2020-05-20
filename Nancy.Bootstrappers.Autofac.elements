@@ -26,12 +26,8 @@
     <EnableUnmanagedDebugging>False</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <NuGetReference Include="autofac:[4.9.2]">
-      <Private>True</Private>
-    </NuGetReference>
-    <NuGetReference Include="Nancy:[2.0.0]">
-      <Private>True</Private>
-    </NuGetReference>
+    <NuGetReference Include="autofac:[4.9.2]"></NuGetReference>
+    <NuGetReference Include="Nancy:[2.0.0]"></NuGetReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.pas" />
